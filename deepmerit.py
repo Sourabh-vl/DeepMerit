@@ -1,6 +1,6 @@
 class DeepMerit:
     
-    def counterfeitDrug
+    def counterfeitDrug (data):
       def captureImage(data):
             return data
     
@@ -8,20 +8,20 @@ class DeepMerit:
             return data
     
       def shapleyImage(data):
-          print("hi")
-          return data
+            print("hi")
+            return data
     
       def cpcaImage(data):
-          return data
+            return data
     
       def mabImage(data):
-          return data
+            return data
       
       def mlModel(data):
-          return data
+            return data
        
       def notify(data):
-          return data
+            return data
       
-      return
+      return data
     
