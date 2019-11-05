@@ -1,4 +1,6 @@
 class DeepMerit:
+   def counerfietdrug(data):   
+      
       def captureImage(data):
             return data
     
