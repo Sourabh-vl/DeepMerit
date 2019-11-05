@@ -1,6 +1,4 @@
 class DeepMerit:
-    
-    def counterfeitDrug (data):
       def captureImage(data):
             return data
     
@@ -22,6 +20,4 @@ class DeepMerit:
        
       def notify(data):
             return data
-      
-      return data
     
